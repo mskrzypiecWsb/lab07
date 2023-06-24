@@ -1,0 +1,15 @@
+D:\VS\Projects\lab07\1. formatowanie czasu\bin\Debug\net6.0\1. formatowanie czasu.exe
+D:\VS\Projects\lab07\1. formatowanie czasu\bin\Debug\net6.0\1. formatowanie czasu.deps.json
+D:\VS\Projects\lab07\1. formatowanie czasu\bin\Debug\net6.0\1. formatowanie czasu.runtimeconfig.json
+D:\VS\Projects\lab07\1. formatowanie czasu\bin\Debug\net6.0\1. formatowanie czasu.dll
+D:\VS\Projects\lab07\1. formatowanie czasu\bin\Debug\net6.0\1. formatowanie czasu.pdb
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.csproj.AssemblyReference.cache
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.AssemblyInfoInputs.cache
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.AssemblyInfo.cs
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.dll
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\refint\1. formatowanie czasu.dll
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.pdb
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\1. formatowanie czasu.genruntimeconfig.cache
+D:\VS\Projects\lab07\1. formatowanie czasu\obj\Debug\net6.0\ref\1. formatowanie czasu.dll

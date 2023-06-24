@@ -1,0 +1,15 @@
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.csproj.AssemblyReference.cache
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.AssemblyInfoInputs.cache
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.AssemblyInfo.cs
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.csproj.CoreCompileInputs.cache
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\bin\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.exe
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\bin\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.deps.json
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\bin\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.runtimeconfig.json
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\bin\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.dll
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\bin\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.pdb
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.dll
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\refint\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.dll
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.pdb
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.genruntimeconfig.cache
+D:\VS\Projects\lab07\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym\obj\Debug\net6.0\ref\2. dlugosc odcinka w ukladzie kartezjanskim dwuwymiarowym.dll
